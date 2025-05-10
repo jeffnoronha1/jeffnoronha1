@@ -2,11 +2,12 @@
 
 <h2>Sobre mim</h2>
 
-🕵️ Analista de Dados | Apaixonado por transformar números em histórias.<br>
-Uso Python, SQL, Power BI e um pouco de magia estatística para descobrir padrões escondidos nos dados.<br>
-Sempre buscando insights que resolvam problemas reais — ou pelo menos façam os gráficos ficarem bonitos!
+  🕵️ Analista de Dados | Apaixonado por transformar números em histórias.<br>
+  
+  Uso Python, SQL, Power BI e um pouco de magia estatística para descobrir padrões escondidos nos dados.<br>
+  Sempre buscando insights que resolvam problemas reais — ou pelo menos façam os gráficos ficarem bonitos!
 
-<h2>🛠 Stack/h2>
+<h2>🛠 Stack</h2>
 
 ![AWS](https://img.shields.io/badge/AWS-%23141F2E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
