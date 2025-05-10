@@ -1,5 +1,7 @@
 <h2 align="center">Olá, Meu nome é Jefferson Noronha <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
+<div class="tenor-gif-embed" data-postid="20918086" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/goal-circle-goals-data-table-gif-20918086">Goal Circle GIF</a>from <a href="https://tenor.com/search/goal-gifs">Goal GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h2>Sobre mim</h2>
 
   🕵️ **Analista de Dados** | Apaixonado por transformar números em histórias.<br>
