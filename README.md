@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-<h2 style="border-bottom: none;">🚀 Projetos</h2>
+<h2 style="border-bottom: none;">🧩 Projetos</h2>
 
 Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em **Análise de Dados**:
 
