@@ -1,7 +1,7 @@
-<h2 align="left">Olá, Meu nome é Jefferson Noronha <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h2 align="left" style="border-bottom: none;">Olá, Meu nome é Jefferson Noronha <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
 🕵️‍♂️ **Analista de Dados** apaixonado por transformar números em histórias.<br>
-📊 Uso **Python**, **SQL**, **Power BI** e uma pitada de estatística para revelar padrões escondidos.<br>
+📊 Uso **Python**, **SQL**, **Power BI**, **Excel** e uma pitada de estatística para revelar padrões escondidos.<br>
 🚀 Sempre em busca de **insights acionáveis** — ou, no mínimo, gráficos bonitos!
 
 ---
@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <th>🧪 Linguagens</th>
+    <th>👨‍💻 Linguagens</th>
     <th>📦 Bibliotecas</th>
     <th>📊 Visualização</th>
     <th>🛠️ Ferramentas</th>
@@ -40,6 +40,16 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h2 style="border-bottom: none;">🚀 Projetos</h2>
+
+Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em **Análise de Dados**:
+
+### 1. **Análise de Desempenho de Vendas**
+- 📊 **Descrição**: O objetivo do projeto é identificar a loja com menor desempenho e maior necessidade de melhorias, recomendando sua venda com base em dados.
+- 🔗 **Link**: [Veja o Projeto](https://github.com/jeffnoronha1/Datascience-Challenge1-AluraStore)
 
 ---
 
