@@ -58,7 +58,9 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em
 <h2></h2>
 
 📫 Conecte-se comigo:
-
-<a href="https://www.linkedin.com/in/jeffnoronha/" target="_blank">
+<div>
+  <a href="https://www.linkedin.com/in/jeffnoronha/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-</a>
+  </a>
+</div>
+
