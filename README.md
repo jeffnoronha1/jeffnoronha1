@@ -55,7 +55,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em
 
 <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=jeffnoronha1&show_icons=true&theme=calm&hide_border=true&count_private=true" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffnoronha1&theme=calm&hide_border=true" height="140"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffnoronha1&theme=calm&hide_border=true" height="140"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnoronha1&layout=compact&theme=calm&hide_border=true" height="140"/>
 </div>
 
