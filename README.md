@@ -59,6 +59,31 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnoronha1&layout=compact&theme=calm&hide_border=true" height="140"/>
 </div>
 
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #58a6ff; text-align: center;">
+  📈 Minhas Estatísticas no GitHub
+</h2>
+<p style="text-align: center; color: #ffffff; font-family: 'Segoe UI'; margin-bottom: 20px;">
+  Confira minha atividade e linguagens favoritas! 🚀
+</p>
+
+<div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; background: linear-gradient(135deg, #1a1b27, #2a2b3a); padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffnoronha1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff&count_private=true" height="140" style="transition: transform 0.3s;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffnoronha1&theme=tokyonight&hide_border=true&background=1a1b27&stroke=ffffff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="140" style="transition: transform 0.3s;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnoronha1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff" height="140" style="transition: transform 0.3s;"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</div>
+
+<style>
+  img:hover {
+    transform: scale(1.05);
+  }
+</style>
+
 <h2></h2>
 
 📫 Conecte-se comigo:
