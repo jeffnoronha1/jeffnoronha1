@@ -50,14 +50,15 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em
 ### 2. **Análise de Evasão de Clientes**
 - 📊 **Descrição**: Este projeto tem como objetivo analisar o fenômeno de evasão de clientes (churn) na base de dados da TelecomX.
 - 🔗 **Link**: [Veja o Projeto](https://github.com/jeffnoronha1/Datascience-Challenge2-TelecomX)
-
+<!--
 <h2>📈 GitHub Stats</h2>
 
 <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=jeffnoronha1&show_icons=true&theme=calm&hide_border=true&count_private=true" height="140"/>
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffnoronha1&theme=calm&hide_border=true" height="140"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffnoronha1&theme=calm&hide_border=true" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnoronha1&layout=compact&theme=calm&hide_border=true" height="140"/>
 </div>
+-->
 
 <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #58a6ff; text-align: center;">
   📈 Minhas Estatísticas no GitHub
@@ -71,18 +72,6 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffnoronha1&theme=tokyonight&hide_border=true&background=1a1b27&stroke=ffffff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="140" style="transition: transform 0.3s;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnoronha1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff" height="140" style="transition: transform 0.3s;"/>
 </div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-</div>
-
-<style>
-  img:hover {
-    transform: scale(1.05);
-  }
-</style>
 
 <h2></h2>
 
