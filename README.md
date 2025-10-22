@@ -44,8 +44,8 @@
 Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em **Análise de Dados**:
 
 ### 1. **Análise de Desempenho de Vendas**
-- 📊 **Descrição**: Este projeto tem como objetivo identificar a loja com menor desempenho e maior necessidade de melhorias, recomendando sua venda com base em dados.
-- 🔗 **Link**: [Veja o Projeto](https://github.com/jeffnoronha1/Datascience-Challenge1-AluraStore)
+- 📊 **Descrição**: Este projeto consiste num dashboard de análise de vendas, desenvolvido integralmente no Power BI. O objetivo é consolidar os principais indicadores de performance (KPIs) e fornecer uma visão interativa do desempenho de vendas.
+- 🔗 **Link**: [Veja o Projeto](https://github.com/jeffnoronha1/dashboard-vendas/tree/main)
 
 ### 2. **Análise de Evasão de Clientes**
 - 📊 **Descrição**: Este projeto tem como objetivo analisar o fenômeno de evasão de clientes (churn) na base de dados da TelecomX.
