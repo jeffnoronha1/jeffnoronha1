@@ -49,7 +49,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em
 
 - ### 2. **Análise de Satisfação dos Clientes**
 - 📊 **Descrição**: Este projeto tem como objetivo monitorar a satisfação dos clientes e a qualidade dos serviços da Academia Impetus. A análise baseia-se em dados reais coletados via pesquisa de satisfação, visando identificar pontos de melhoria no atendimento, infraestrutura e retenção de clientes.
-- 🔗 **Link**: [Veja o Projeto]((https://github.com/jeffnoronha1/projeto-digitalizacao-processos))
+- 🔗 **Link**: [Veja o Projeto](https://github.com/jeffnoronha1/projeto-digitalizacao-processos)
 
 ### 3. **Análise de Evasão de Clientes**
 - 📊 **Descrição**: Este projeto tem como objetivo analisar o fenômeno de evasão de clientes (churn) na base de dados da TelecomX.
