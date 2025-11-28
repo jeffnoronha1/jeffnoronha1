@@ -47,7 +47,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em
 - 📊 **Descrição**: Este projeto consiste num dashboard de análise de vendas, desenvolvido integralmente no Power BI. O objetivo é consolidar os principais indicadores de performance (KPIs) e fornecer uma visão interativa do desempenho de vendas.
 - 🔗 **Link**: [Veja o Projeto](https://github.com/jeffnoronha1/dashboard-vendas/tree/main)
 
-- ### 2. **Análise de Satisfação dos Clientes**
+### 2. **Análise de Satisfação dos Clientes**
 - 📊 **Descrição**: Este projeto tem como objetivo monitorar a satisfação dos clientes e a qualidade dos serviços da Academia Impetus. A análise baseia-se em dados reais coletados via pesquisa de satisfação, visando identificar pontos de melhoria no atendimento, infraestrutura e retenção de clientes.
 - 🔗 **Link**: [Veja o Projeto](https://github.com/jeffnoronha1/projeto-digitalizacao-processos)
 
