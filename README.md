@@ -72,9 +72,9 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffnoronha1&show_icons=true&theme=dark&hide_border=true&count_private=true" height="140" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffnoronha1&theme=dark&hide_border=true" height="140" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnoronha1&layout=compact&theme=dark&hide_border=true" height="140" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffnoronha1&show_icons=true&theme=dracula&hide_border=true" height="140" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffnoronha1&theme=dracula&hide_border=true" height="140" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnoronha1&layout=compact&theme=dracula&hide_border=true" height="140" alt="Langs" />
 </div>
 
 <h2></h2>
