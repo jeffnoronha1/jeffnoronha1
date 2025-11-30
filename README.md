@@ -71,10 +71,10 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em
   Confira minha atividade e linguagens favoritas! 🚀
 </p>
 
-<div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; background: linear-gradient(135deg, #1a1b27, #2a2b3a); padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffnoronha1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff&count_private=true" height="140" style="transition: transform 0.3s;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffnoronha1&theme=tokyonight&hide_border=true&background=1a1b27&stroke=ffffff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="140" style="transition: transform 0.3s;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnoronha1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff" height="140" style="transition: transform 0.3s;"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffnoronha1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff&count_private=true" height="140" alt="Jeff Noronha Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffnoronha1&theme=tokyonight&hide_border=true&background=1a1b27&stroke=ffffff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="140" alt="Jeff Noronha Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnoronha1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff" height="140" alt="Jeff Noronha Top Langs" />
 </div>
 
 <h2></h2>
