@@ -72,9 +72,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffnoronha1&show_icons=true&theme=dracula&hide_border=true" height="140" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffnoronha1&theme=dracula&hide_border=true" height="140" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnoronha1&layout=compact&theme=dracula&hide_border=true" height="140" alt="Langs" />
+  <img src="https://metrics.lecoq.io/jeffnoronha1?template=classic&config.timezone=America%2FSao_Paulo" width="100%" alt="Metrics" />
 </div>
 
 <h2></h2>
