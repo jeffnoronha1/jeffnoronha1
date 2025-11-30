@@ -72,9 +72,9 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente, focados em
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffnoronha1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff&count_private=true" height="140" alt="Jeff Noronha Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffnoronha1&theme=tokyonight&hide_border=true&background=1a1b27&stroke=ffffff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="140" alt="Jeff Noronha Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnoronha1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff" height="140" alt="Jeff Noronha Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffnoronha1&show_icons=true&theme=dark&hide_border=true&count_private=true" height="140" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffnoronha1&theme=dark&hide_border=true" height="140" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnoronha1&layout=compact&theme=dark&hide_border=true" height="140" alt="Langs" />
 </div>
 
 <h2></h2>
